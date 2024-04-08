@@ -1,4 +1,4 @@
-# Welcome to Alexandra's GitHub Profile! 👋
+# Welcome to Alexandra's GitHub Profile! 🌸
 
 Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about predictive models and analyzing pattern in data. Feel free to explore my repositories and projects.
 
@@ -67,9 +67,9 @@ Feel free to check them out!
 
 ## Let's Connect 🌐
 
-- LinkedIn: [https://www.linkedin.com/in/alexandra-carolina-marcos-101010/]
-- Twitter: [https://twitter.com/CarolinaAle1896]
-- Website: [https://alexandramarcos1896.github.io/]
+- LinkedIn: [alexandra-carolina-marcos-101010](https://www.linkedin.com/in/alexandra-carolina-marcos-101010/)
+- Twitter: [CarolinaAle1896](https://twitter.com/CarolinaAle1896)
+- Website: [alexandramarcos1896](https://alexandramarcos1896.github.io/)
 
 ## Fun Fact 🎉
 
