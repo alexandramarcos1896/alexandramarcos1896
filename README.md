@@ -1,19 +1,58 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Alexandra's GitHub Profile! 👋
 
-Hey there! Welcome to my GitHub profile. I'm [Your Name], and I'm passionate about [Your Interests]. Feel free to explore my repositories and projects.
+Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about programming. Feel free to explore my repositories and projects.
 
 ## About Me ℹ️
 
-- 🌱 I'm currently learning [Something Interesting].
-- 💬 Ask me about [Your Expertise].
-- 📫 How to reach me: [Your Email or Contact Information].
-- 😄 Pronouns: [Your Pronouns].
+- 🌱 I'm currently learning frontend development in React and Angular frameworks.
+- 💬 Ask me about Machine Learning and Data Analytics.
+- 😄 Pronouns: She/her.
 
 ## Technologies I Love 💻
 
-- Languages: [Languages you're proficient in]
-- Frameworks: [Frameworks you enjoy working with]
-- Tools: [Tools you use regularly]
+<div style="columns: 2;">
+    
+### Programming Languages:
+- C
+- Stata
+- Matlab
+- JavaScript
+- R (💖)
+- Python
+
+### Databases: 🛢️
+- SQL Server
+- PostgreSQL
+
+### Web Technologies: 🌐
+- HTML
+- CSS
+- Flask (Frontend)
+- React (Frontend)
+- Django (Backend)
+
+### Operating Systems: 💻
+- Linux
+- Ubuntu
+- PowerShell
+
+</div><div style="columns: 2;">
+
+### Tools & Technologies: ⚙️
+- Docker
+- Postman
+
+### Version Control & Build Tools: 🛠️
+- Git
+- GitHub Actions
+
+### Microsoft Office: 📊
+- PowerPoint
+- Excel
+- PowerBI
+
+</div>
+
 
 ## My Projects 🚀
 
@@ -38,7 +77,7 @@ Did you know [Interesting Fact]?
 ---
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5daf5991737e0c3290279ef9/1639532706111-T9DPI06XQQR8FPEYLUGV/image-asset.gif" alt="animated" width="400"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5daf5991737e0c3290279ef9/1639532706111-T9DPI06XQQR8FPEYLUGV/image-asset.gif" alt="animated" width="300"/>
 </p>
 
 <!-- Add more sections as needed -->
