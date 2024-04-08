@@ -1,6 +1,6 @@
 # Welcome to Alexandra's GitHub Profile! 👋
 
-Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about programming. Feel free to explore my repositories and projects.
+Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about predictive models and analyzing pattern in data. Feel free to explore my repositories and projects.
 
 ## About Me ℹ️
 
@@ -36,7 +36,8 @@ Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionat
 - Ubuntu
 - PowerShell
 
-</div><div style="columns: 2;">
+</div>
+<div style="columns: 2;">
 
 ### Tools & Technologies: ⚙️
 - Docker
@@ -66,13 +67,13 @@ Feel free to check them out!
 
 ## Let's Connect 🌐
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- Website: [Your Personal Website URL]
+- LinkedIn: [https://www.linkedin.com/in/alexandra-carolina-marcos-101010/]
+- Twitter: [https://twitter.com/CarolinaAle1896]
+- Website: [https://alexandramarcos1896.github.io/]
 
 ## Fun Fact 🎉
 
-Did you know [Interesting Fact]?
+This journey has provided me with the opportunity to meet incredible individuals who continuously inspire me to enhance my skills. One of my goals for this year is to mentor girls, empowering them to embark on their journey in the world of programming
 
 ---
 
