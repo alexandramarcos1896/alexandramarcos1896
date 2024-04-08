@@ -38,7 +38,7 @@ Did you know [Interesting Fact]?
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/[your-gif-id]/giphy.gif" alt="animated" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5daf5991737e0c3290279ef9/1639532706111-T9DPI06XQQR8FPEYLUGV/image-asset.gif" alt="animated" />
 </p>
 
 <!-- Add more sections as needed -->
