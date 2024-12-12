@@ -1,6 +1,6 @@
 # Welcome to Alexandra's GitHub Profile! 🌸
 
-Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about predictive models and analyzing pattern in data. Feel free to explore my repositories and projects.
+Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionate about predictive models and analyzing pattern in data. Feel free to explore my repositories and projects and check my [personal website](https://alexandramarcos1896.github.io).
 
 ## About Me ℹ️
 
