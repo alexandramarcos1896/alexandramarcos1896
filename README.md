@@ -59,11 +59,9 @@ Hey there! Welcome to my GitHub profile. I'm Alexandra Marcos, and I'm passionat
 
 Here are some projects I'm proud of:
 
-1. [Project Name 1](link-to-project1): Brief description.
-2. [Project Name 2](link-to-project2): Brief description.
-3. [Project Name 3](link-to-project3): Brief description.
-
-Feel free to check them out!
+1. [COVID19-PERU](https://github.com/alexandramarcos1896/covidPeru): The goal of this package is to facilitate the use of the information we have available on the government’s open data portal regarding COVID.
+2. [ML Bookdown](https://github.com/alexandramarcos1896/14.38_Causal_ML](https://github.com/alexanderquispe/ml_book): This book is designed to give readers practical, hands-on experience in applying machine learning algorithms using both R and Python, two of the most popular programming languages in data science. The book balances theory and practice, ensuring that you not only understand how machine learning algorithms work but also how to implement them effectively with real-world datasets.
+3. [DSToolkit](https://github.com/Mirkiux/DSToolkit): To streamline the process of cleaning and training a machine learning (ML) model, a set of utility functions can significantly reduce the time spent on data preprocessing.
 
 ## Let's Connect 🌐
 
